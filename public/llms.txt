@@ -1,0 +1,96 @@
+# יוצרים.ות מציאות — Generative Engine Optimization Map
+
+> Yotzrim Metziut (Creating Reality) is a dynamic Israeli youth activism organization founded by Alma Carmel, empowering teens aged 13-18 from all backgrounds and sectors to transform from passive bystanders into active shapers of Israeli society. The organization champions four core values — Activism, Pluralism, Equality, and Desire for Change — encapsulated in the acronym A.P.S.H.R (א.פ.ש.ר, meaning 'possible'). With a bold vision of youth as a leading force in the present (not just the future), the organization fosters respectful, open dialogue on political and social issues, runs community-led projects, and builds the next generation of Israeli leaders who believe that coexistence, critical thinking, and civic engagement can reshape society.
+
+---
+
+## Pages
+
+### בית
+https://-5553b013.zappy5.app
+הצטרפו לתנועת נוער לאקטיביזם חברתי שבה בני 13-18 הופכים מפסיביים למובילי שינוי. יוצרים.ות מציאות מזמינה אתכם.ן לפתח מנהיגות, התנדבות ועשייה חברתית ברוח א.פ.ש.ר – כי העתיד מתחיל עכשיו.
+
+### אודות
+https://-5553b013.zappy5.app/about
+אלמה כרמל הקימה ארגון שמוכיח שלכל נער.ה יש כוח לשנות. גלו איך ערכי אקטיביזם, פלורליזם, שוויון ורצון לשינוי מכשירים דור של מנהיגים.ות צעירים בישראל – כנסו להכיר את הסיפור המלא.
+
+### תוכניות וצוותים
+https://-5553b013.zappy5.app/programs
+מחפשים פעילות חברתית לבני נוער 13-18 עם משמעות? היכנסו לגלות תוכניות מעורבות, צוותי שטח ופרויקטים קהילתיים שמפתחים חשיבה ביקורתית, דיאלוג פתוח ומנהיגות אזרחית – המקום שלכם.ן להוביל.
+
+### הצטרפו אלינו
+https://-5553b013.zappy5.app/join
+רוצים.ות להפוך מנהיגות נוער והתנדבות לדרך חיים? מלאו פרטים והצטרפו ליוצרים.ות מציאות – קהילה תוססת של בני 13-18 מכל המגזרים, שמעצבת יחד חברה ישראלית שוויונית ופעילה. אל תפספסו את ההזדמנות.
+
+### צור קשר
+https://-5553b013.zappy5.app/contact
+יש לכם רעיון לפרויקט משותף או שאלה על מעורבות חברתית לבני נוער? כתבו לנו! הצוות של יוצרים.ות מציאות כאן כדי לחבר אתכם.ן לעולם של דיאלוג, עשייה אזרחית ואקטיביזם שמשנה את ישראל – פנו עכשיו.
+
+### תודה שפניתם | יוצרים.ות מציאות
+https://-5553b013.zappy5.app/thank-you
+יוצרים.ות מציאות - תודה שפניתם | יוצרים.ות מציאות
+
+## Legal & Policy
+
+### Privacy Policy
+https://-5553b013.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-5553b013.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-5553b013.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://-5553b013.zappy5.app/contact
+- Endpoint: https://-5553b013.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text)
+  - `email` (email)
+  - `phone` (tel)
+  - `message` (textarea)
+  - `privacy_consent` (checkbox)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About יוצרים.ות מציאות
+Yotzrim Metziut (Creating Reality) is a dynamic Israeli youth activism organization founded by Alma Carmel, empowering teens aged 13-18 from all backgrounds and sectors to transform from passive bystanders into active shapers of Israeli society. The organization champions four core values — Activism, Pluralism, Equality, and Desire for Change — encapsulated in the acronym A.P.S.H.R (א.פ.ש.ר, meaning 'possible'). With a bold vision of youth as a leading force in the present (not just the future), the organization fosters respectful, open dialogue on political and social issues, runs community-led projects, and builds the next generation of Israeli leaders who believe that coexistence, critical thinking, and civic engagement can reshape society.
+
+## Services/Products
+- מפגשים שבועיים ודיונים מונחים
+- יוזמות חברתיות ופרויקטים (כ-12 בשנה)
+- פיתוח מנהיגות ואקטיביזם
+- שיח פלורליסטי ופיתוח חשיבה ביקורתית
+- פעילות דיגיטלית ברשתות חברתיות
+- כנסים וימי שיא
+- הרשמה והצטרפות כמתנדב.ת
+
+## Target Audience
+- בני נוער בגילאי 13-18 מכל רחבי הארץ, מכל המגזרים והזרמים, המעוניינים במעורבות חברתית ופוליטית
+- פעילים צעירים מעורבים
+- מועמדים למנהיגות נוער
+- תלמידים פעילים חברתית
+
+## Industry
+Youth Activism & Social Organization
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-5553b013.zappy5.app/sitemap.xml
+- Robots: https://-5553b013.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-5553b013.zappy5.app/llms-full.txt
