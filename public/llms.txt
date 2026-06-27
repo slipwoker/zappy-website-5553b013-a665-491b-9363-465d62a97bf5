@@ -7,41 +7,41 @@
 ## Pages
 
 ### בית
-https://-5553b013.zappy5.app
+https://example.com
 הצטרפו לתנועת נוער לאקטיביזם חברתי שבה בני 13-18 הופכים מפסיביים למובילי שינוי. יוצרים.ות מציאות מזמינה אתכם.ן לפתח מנהיגות, התנדבות ועשייה חברתית ברוח א.פ.ש.ר – כי העתיד מתחיל עכשיו.
 
 ### אודות
-https://-5553b013.zappy5.app/about
+https://example.com/about
 אלמה כרמל הקימה ארגון שמוכיח שלכל נער.ה יש כוח לשנות. גלו איך ערכי אקטיביזם, פלורליזם, שוויון ורצון לשינוי מכשירים דור של מנהיגים.ות צעירים בישראל – כנסו להכיר את הסיפור המלא.
 
 ### תוכניות וצוותים
-https://-5553b013.zappy5.app/programs
+https://example.com/programs
 מחפשים פעילות חברתית לבני נוער 13-18 עם משמעות? היכנסו לגלות תוכניות מעורבות, צוותי שטח ופרויקטים קהילתיים שמפתחים חשיבה ביקורתית, דיאלוג פתוח ומנהיגות אזרחית – המקום שלכם.ן להוביל.
 
 ### הצטרפו אלינו
-https://-5553b013.zappy5.app/join
+https://example.com/join
 רוצים.ות להפוך מנהיגות נוער והתנדבות לדרך חיים? מלאו פרטים והצטרפו ליוצרים.ות מציאות – קהילה תוססת של בני 13-18 מכל המגזרים, שמעצבת יחד חברה ישראלית שוויונית ופעילה. אל תפספסו את ההזדמנות.
 
 ### צור קשר
-https://-5553b013.zappy5.app/contact
+https://example.com/contact
 יש לכם רעיון לפרויקט משותף או שאלה על מעורבות חברתית לבני נוער? כתבו לנו! הצוות של יוצרים.ות מציאות כאן כדי לחבר אתכם.ן לעולם של דיאלוג, עשייה אזרחית ואקטיביזם שמשנה את ישראל – פנו עכשיו.
 
 ### תודה שפניתם | יוצרים.ות מציאות
-https://-5553b013.zappy5.app/thank-you
+https://example.com/thank-you
 יוצרים.ות מציאות - תודה שפניתם | יוצרים.ות מציאות
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://-5553b013.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://-5553b013.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://-5553b013.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -51,8 +51,8 @@ Information about WCAG compliance and accessibility features.
 - (No contact details configured yet.)
 
 ### Contact form
-- URL: https://-5553b013.zappy5.app/contact
-- Endpoint: https://-5553b013.zappy5.app/api/email/contact-form
+- URL: https://example.com/contact
+- Endpoint: https://example.com/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -91,6 +91,6 @@ Youth Activism & Social Organization
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://-5553b013.zappy5.app/sitemap.xml
-- Robots: https://-5553b013.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://-5553b013.zappy5.app/llms-full.txt
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
